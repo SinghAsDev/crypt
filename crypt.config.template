@@ -1,0 +1,16 @@
+{
+  "exchanges": [
+    {"exchange": "binance",
+     "apiKey": "<API_KEY>",
+     "secret": "<API_SECRET>",
+     "markets": [
+       {"name": "XRP",
+        "pair": "XRP/BTC"
+       },
+       {"name": "XLM",
+        "pair": "XLM/BTC"
+       }
+     ] 
+    }
+  ]
+}
